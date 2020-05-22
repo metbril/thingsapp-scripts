@@ -4,6 +4,12 @@ A collection of scripts for [Things app](https://culturedcode.com/things/) for M
 
 ## Scripts
 
+### Birthdays
+
+ The script adds a task for each contact with a nearby birthday. The number of days to look ahead can be set in the script.
+
+ You could run the script as part of your weekly review.
+ 
 ### Tomorrow
 
 Schedule all selected todos for tomorrow.
